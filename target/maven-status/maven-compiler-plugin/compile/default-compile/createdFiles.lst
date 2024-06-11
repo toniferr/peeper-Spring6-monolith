@@ -1,0 +1,15 @@
+com/toniferr/spring6_monolith/bootstrap/BootstrapData.class
+com/toniferr/spring6_monolith/controllers/AuthorController.class
+com/toniferr/spring6_monolith/repositories/PublisherRepository.class
+com/toniferr/spring6_monolith/repositories/BookRepository.class
+com/toniferr/spring6_monolith/controllers/MyController.class
+com/toniferr/spring6_monolith/services/BookServiceImpl.class
+com/toniferr/spring6_monolith/controllers/BookController.class
+com/toniferr/spring6_monolith/domain/Author.class
+com/toniferr/spring6_monolith/services/BookService.class
+com/toniferr/spring6_monolith/services/AuthorServiceImpl.class
+com/toniferr/spring6_monolith/Spring6WebappApplication.class
+com/toniferr/spring6_monolith/repositories/AuthorRepository.class
+com/toniferr/spring6_monolith/services/AuthorService.class
+com/toniferr/spring6_monolith/domain/Publisher.class
+com/toniferr/spring6_monolith/domain/Book.class

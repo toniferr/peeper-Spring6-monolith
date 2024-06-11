@@ -1,0 +1,15 @@
+/home/toniferr/Workspace/peeperSpring6-monolith/src/main/java/com/toniferr/spring6_monolith/Spring6WebappApplication.java
+/home/toniferr/Workspace/peeperSpring6-monolith/src/main/java/com/toniferr/spring6_monolith/bootstrap/BootstrapData.java
+/home/toniferr/Workspace/peeperSpring6-monolith/src/main/java/com/toniferr/spring6_monolith/controllers/AuthorController.java
+/home/toniferr/Workspace/peeperSpring6-monolith/src/main/java/com/toniferr/spring6_monolith/controllers/BookController.java
+/home/toniferr/Workspace/peeperSpring6-monolith/src/main/java/com/toniferr/spring6_monolith/controllers/MyController.java
+/home/toniferr/Workspace/peeperSpring6-monolith/src/main/java/com/toniferr/spring6_monolith/domain/Author.java
+/home/toniferr/Workspace/peeperSpring6-monolith/src/main/java/com/toniferr/spring6_monolith/domain/Book.java
+/home/toniferr/Workspace/peeperSpring6-monolith/src/main/java/com/toniferr/spring6_monolith/domain/Publisher.java
+/home/toniferr/Workspace/peeperSpring6-monolith/src/main/java/com/toniferr/spring6_monolith/repositories/AuthorRepository.java
+/home/toniferr/Workspace/peeperSpring6-monolith/src/main/java/com/toniferr/spring6_monolith/repositories/BookRepository.java
+/home/toniferr/Workspace/peeperSpring6-monolith/src/main/java/com/toniferr/spring6_monolith/repositories/PublisherRepository.java
+/home/toniferr/Workspace/peeperSpring6-monolith/src/main/java/com/toniferr/spring6_monolith/services/AuthorService.java
+/home/toniferr/Workspace/peeperSpring6-monolith/src/main/java/com/toniferr/spring6_monolith/services/AuthorServiceImpl.java
+/home/toniferr/Workspace/peeperSpring6-monolith/src/main/java/com/toniferr/spring6_monolith/services/BookService.java
+/home/toniferr/Workspace/peeperSpring6-monolith/src/main/java/com/toniferr/spring6_monolith/services/BookServiceImpl.java
