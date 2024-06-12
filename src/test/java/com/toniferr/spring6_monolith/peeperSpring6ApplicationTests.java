@@ -1,36 +1,32 @@
 package com.toniferr.spring6_monolith;
 
-import com.toniferr.spring6_monolith.controllers.MyController;
+import com.toniferr.spring6_monolith.controllers.MyControllerCtx;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.context.ApplicationContext;
 
 @SpringBootTest
-class Spring6WebappApplicationTests {
-
+class peeperSpring6ApplicationTests {
 
     @Autowired
     ApplicationContext applicationContext;
 
     @Autowired
-    MyController myController;
+    MyControllerCtx myControllerCtx;
 
     @Test
     void testAutowireOfController() {
-        System.out.println(myController.sayHello());
+        System.out.println(myControllerCtx.sayHello());
     }
 
     @Test
     void testGetControllerFromCtx() {
-        MyController myController = applicationContext.getBean(MyController.class);
-
-        System.out.println(myController.sayHello());
+        MyControllerCtx myControllerCtx = applicationContext.getBean(MyControllerCtx.class);
+        System.out.println(myControllerCtx.sayHello());
     }
 
     @Test
     void contextLoads() {
     }
-
-
 }
